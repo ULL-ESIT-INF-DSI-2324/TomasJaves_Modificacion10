@@ -1,0 +1,3 @@
+Hola, este es un fichero de texto de ejemplo.
+Contiene varias líneas,
+y cada línea tiene varias palabras.
